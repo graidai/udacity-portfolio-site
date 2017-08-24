@@ -68,7 +68,7 @@ img{
 }
 
 .pseudo-sidebar{
-	padding-right: 25px;
+	padding-right: 27px;
 }
 
 #logo-style{
@@ -86,4 +86,8 @@ img{
 
 .light-gray{
 	background-color: #7d97ad;
+}
+
+.no-margin{
+	margin: 0;
 }
